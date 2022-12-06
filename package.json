@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/rcasco/ng14-odometer#readme",
   "peerDependencies": {
-    "@angular/common": "^14.2.10",
-    "@angular/core": "^14.2.10"
+    "@angular/common": "^15.0.2",
+    "@angular/core": "^15.0.2"
   },
   "dependencies": {
     "lodash": "^4.x",
