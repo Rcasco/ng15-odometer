@@ -1,14 +1,14 @@
-# Ng14-Odometer [![npm version](https://img.shields.io/npm/v/tm-ng-odometer.svg?style=flat)](https://www.npmjs.com/package/tm-ng-odometer) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+# Ng15-Odometer [![npm version](https://img.shields.io/npm/v/tm-ng-odometer.svg?style=flat)](https://www.npmjs.com/package/tm-ng-odometer) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 ### Powered by: Roger Casco
 
-Odometer for [Angular 14]() that updates mtmarco87's decimal fixed version of HubSpot's Odometer: [NPM](https://www.npmjs.com/package/tm-odometer)/[GitHub](https://github.com/mtmarco87/odometer/)
+Odometer for [Angular 15]() that updates mtmarco87's decimal fixed version of HubSpot's Odometer: [NPM](https://www.npmjs.com/package/tm-odometer)/[GitHub](https://github.com/mtmarco87/odometer/)
 
 
 ### NOTE: 
-I have updated this Angular 14 version starting from the existing Ng2Odometer by Jose Andres.
+I have updated this Angular 15 version starting from the existing Ng2Odometer by Jose Andres.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.10.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.10.0.
 
 ### HubSpot's Odometer
 GitHub: [http://github.hubspot.com/odometer/docs/welcome/](http://github.hubspot.com/odometer/docs/welcome/)
@@ -20,7 +20,7 @@ NPM: [https://www.npmjs.com/package/ng2-odometer/](https://www.npmjs.com/package
 ## Quick Start
 
 ```
-npm install @rogercasco/ng-14-odometer --save
+npm install @rogercasco/ng-15-odometer --save
 ```
 
 ## Table of contents
@@ -34,7 +34,7 @@ npm install @rogercasco/ng-14-odometer --save
 
 First you need to install the npm module:
 ```sh
-npm install @rogercasco/ng-14-odometer --save
+npm install @rogercasco/ng-15-odometer --save
 ```
 
 Then add the `TmNgOdometerModule` to the imports array of your application module.
@@ -182,7 +182,7 @@ Then go to [http://localhost:4200](http://localhost:4200/) to check the demo run
 
 ## DONE:
 
-* Update to Angular 14
+* Update to Angular 15
 
 
 ## License
